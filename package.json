@@ -1,0 +1,27 @@
+{
+  "name": "cinema-help-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KonstantinLev/cinema-help-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KonstantinLev/cinema-help-bot/issues"
+  },
+  "homepage": "https://github.com/KonstantinLev/cinema-help-bot#readme",
+  "dependencies": {
+    "mongoose": "^5.0.1",
+    "node-telegram-bot-api": "^0.30.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
+}
