@@ -1,4 +1,4 @@
 module.exports = {
-    TOKEN: '{BOT_TOKEN}',
+    TOKEN: '{TOKEN}',
     DB_URL: 'mongodb://localhost/x_cinema'
 }
