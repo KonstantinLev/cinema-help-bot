@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/KonstantinLev/cinema-help-bot#readme",
   "dependencies": {
+    "geolib": "^2.0.24",
+    "lodash": "^4.17.4",
     "mongoose": "^5.0.1",
     "node-telegram-bot-api": "^0.30.0"
   },
